@@ -1,0 +1,3 @@
+[submodule "django_webOS"]
+	path = django_webOS
+	url = https://github.com/LeGodurix19/django_webOS.git
